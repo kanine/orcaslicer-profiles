@@ -1,0 +1,19 @@
+{
+    "filament_settings_id": [
+        "Inkstation PLA - Anycubic Generic"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "Anycubic Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Inkstation PLA - Anycubic Generic",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "version": "1.8.0.0"
+}
