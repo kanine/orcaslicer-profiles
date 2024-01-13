@@ -4,7 +4,7 @@ This is a repository for my personal Orca Slicer presets for use with the Kobra 
 I've checked generated gcode vs output from the official Anycubic Prusaslicer profile and tried to match up as best as I can for now. I do notice some changes in speed / fan settings etc between the two so I expect this will evolve over time.
 
 # Installation
-Copy the respository files using which ever method you prefer and copy the contents of the two folders to the Orca Slicer Application Data area.
+Copy the respository files using which ever method you prefer (eg Code > Download Zip) and copy the contents of the two folders to the Orca Slicer Application Data area.
 
 For example in Windows: %APPDATA%\Roaming\OrcaSlicer\user
 
