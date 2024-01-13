@@ -1,5 +1,5 @@
 # About orcaslicer-profiles
-This is a repository for my personal Orca Slicer presets for use with the Kobra 2 Plus. I've done some test prints and built this up using built in Orca Slicer 1.9.0 presets. Orac Slicer presets use an additive method where each file builds on it's dependencies so I think this is one of the cleaner ways to do this.
+This is a repository for my personal Orca Slicer presets for use with the Kobra 2 Plus. I've done some test prints and built this up using built in Orca Slicer 1.9.0 presets. Orca Slicer presets use an additive method where each file builds on it's dependencies so I think this is one of the cleaner ways to do this. In short these files will usually just contain the variations from the released presets, making it easy to see what's been changed.
 
 I've checked generated gcode vs output from the official Anycubic Prusaslicer profile and tried to match up as best as I can for now. I do notice some changes in speed / fan settings etc between the two so I expect this will evolve over time.
 
